@@ -54,8 +54,8 @@ jobs:
         git commit -m'[bot] refresh notebooks'
         git push -f
 
-        - name: convert notebooks and word docs to posts
-        uses: ./_action_files
+    - name: convert notebooks and word docs to posts
+      uses: ./_action_files
   
     - name: setup directories for Jekyll build
       run: |
