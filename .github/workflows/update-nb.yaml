@@ -1,7 +1,7 @@
 name: Update Notebooks And Refresh Page
 on:
   schedule:
-    - cron:  '20 * * * *'
+    - cron:  '55 * * * *'
 
 jobs:
   update-notebooks:
