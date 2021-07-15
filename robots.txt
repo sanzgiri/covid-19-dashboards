@@ -1,0 +1,1 @@
+Sitemap: https://sanzgiri.github.io/covid-19-dashboards/sitemap.xml
